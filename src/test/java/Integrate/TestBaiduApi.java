@@ -16,7 +16,7 @@ public class TestBaiduApi {
 
 
     @Test
-    void testHeath(){
+    void testSearch(){
         baiduApi.search().then().statusCode(200);
     }
 
