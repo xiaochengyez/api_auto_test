@@ -1,0 +1,6 @@
+methods:
+  search:
+    query:
+      wd: 接口测试
+    url: "https://www.baidu.com/s"
+
